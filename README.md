@@ -6,4 +6,8 @@
 				Template.PrjPCB -> YourProjectName.PrjPCB
 				Template.SchDoc -> YourProjectName.SchDoc
 2) Populate Firmware folder with appropriate CCS/TrueStudio/Etc files.
-3) Populate Document folder with appropriate documents files for project.
+3) Populate Document folder with appropriate documents files for project.3) Populate Document folder with appropriate documents files for project.
+
+
+This is Raul Rolon's README file for the Git Tutorial. The above text is part of the tutorial.
+I currently do not have a project.
